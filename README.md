@@ -4,7 +4,7 @@
 ### Hello, coders 👋
 ### This Project will analyse twitter's tweet sentiment  
 
-You need to download train and test file that I have uploaded .
+![Twitter sentiment Analysis](https://i.ytimg.com/vi/eFdPGpny_hY/hqdefault.jpg)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
