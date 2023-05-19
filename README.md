@@ -31,7 +31,7 @@
 
 <br>
 ##Youtube Link
-[![If you liked my content then please like,share and subscribe my channel](https://www.youtube.com/channel/UCwqfU9nsuWiMfug1mDI1-0Q)
+![If you liked my content then please like,share and subscribe my channel](https://www.youtube.com/channel/UCwqfU9nsuWiMfug1mDI1-0Q)
 
 
 
